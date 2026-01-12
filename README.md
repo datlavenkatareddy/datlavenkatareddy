@@ -23,43 +23,44 @@ My work is driven by one question:
 Instead of treating overrides, corrections, or failures as errors, CMM treats them as **learnable reflexes**.
 
 **Core pipeline:**
+🧪 Selected Projects
 
-* Experience logging
-* Pattern extraction
-* Reflex store
-* Override engine
+🔹 Stability Score
 
-**Why it matters:**
+A rigorous evaluation framework for model reliability.
 
-* Faster response over time
-* Increased robustness under distribution shifts
-* Engineering‑first design (no unnecessary heavy ML)
+A Python package that measures how stable a model’s explanations remain under real‑world data perturbations.
 
-This project reflects how I think about intelligence: **structure before scale, control before chaos**.
+Bootstrapping
 
----
+Noise injection
 
-## 🧪 Selected Projects
+Missing data
 
-### 🔹 Stability Score
+Outliers
 
-A Python package that evaluates **model interpretation stability** under perturbations:
 
-* Bootstrapping
-* Noise injection
-* Missing data
-* Outliers
+Includes quantitative scoring and visual diagnostics (radar plots, dashboards) to assess whether a model can be trusted, not just whether it is accurate.
 
-Includes quantitative scoring and visualization (radar plots, dashboards). Designed for *trust*, not just accuracy.
+🔹 QuickSum
 
-### 🔹 QuickSum
+A production‑minded document summarization system.
 
-A lightweight summarization utility focused on speed, clarity, and practical usage.
+Built to turn long PDFs into clean, structured summaries with minimal latency. Designed for practical use rather than academic demos.
 
-### 🔹 Web & Full‑Stack Work
+🔹 Web & Full‑Stack Engineering
 
-* Frontend: HTML, CSS, JavaScript, React, TypeScript
-* Backend: Node.js, Express, MongoDB
+End‑to‑end application development.
+
+Experience building complete systems using:
+
+Frontend: HTML, CSS, JavaScript, React, TypeScript
+
+Backend: Node.js, Express, MongoDB
+
+
+Focus on clean architecture, fast iteration, and deployable software.
+
 
 ---
 
