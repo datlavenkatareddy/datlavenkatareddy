@@ -67,23 +67,6 @@ Benchmarked explanation stability across multiple machine learning models and da
 
 ---
 
-## 🔹 Stability Score Framework
-
-A model-agnostic Python package for quantifying machine learning robustness under data perturbations.
-
-Features:
-
-* Bootstrapping Analysis
-* Noise Robustness Testing
-* Missing Data Evaluation
-* Outlier Sensitivity Assessment
-* Radar Plot Visualizations
-* Stability Dashboards
-
-Designed to move beyond traditional accuracy metrics by evaluating model reliability and consistency.
-
----
-
 ## 🔹 QuickSum AI
 
 An intelligent document summarization system designed for fast and practical information extraction.
