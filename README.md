@@ -1,140 +1,62 @@
+
 # Gnana Venkata Reddy Datla
 
-> Engineering intelligent systems with depth, discipline, and first‑principles thinking.
+**CSE (AI & ML) Undergraduate at CBIT, Hyderabad · Class of 2028**
 
----
+I explore intelligent systems through machine learning, explainability, and adaptive computation. My interests span understanding model behavior, designing reliable computational systems, and developing software that connects AI research with practical applications.
 
-## 👋 About Me
+## Areas of Interest
 
-I’m a **B.Tech Computer Science student** focused on becoming a **top‑tier AI systems engineer**. I don’t chase trends or copy tutorials — I design, build, and refine **foundational systems** that emphasize **control, robustness, and long‑term intelligence**.
+- **AI & Explainable ML** — Model behavior, explanation stability, and robustness under data perturbations.
+- **Adaptive Intelligent Systems** — Control mechanisms, reusable computation, and the balance between efficiency and reliability.
+- **Software Engineering** — Data structures and algorithms, backend development, and full-stack applications.
 
-My work is driven by one question:
+## Selected Projects
 
-> *How do we make intelligent systems behave more like skilled humans — fast, adaptive, and reliable under pressure?*
+### [Explainable AI Stability Analyzer (XAI-SA)](https://github.com/datlavenkatareddy/Explainable-AI-Stability-Analyzer)
 
----
+A research-oriented framework for studying how machine-learning explanations change when input data is perturbed.
 
-# 🚀 Flagship Work
+- Investigates explanation stability under noise, missing values, outliers, and bootstrap sampling.
+- Includes stability metrics, benchmark experiments, and a Streamlit dashboard.
+- Explores explanation variance, cosine stability, feature-ranking consistency, and perturbation robustness.
 
-## 🧠 Computational Muscle Memory (CMM)
+**Technologies:** Python, SHAP, scikit-learn, Streamlit
 
-An original adaptive optimization framework inspired by biological muscle memory.
+[Repository](https://github.com/datlavenkatareddy/Explainable-AI-Stability-Analyzer) · [Live Demo](https://explainable-ai-stability-analyzer-jfyamujryvqv8u465msxzv.streamlit.app)
 
-CMM treats repeated overrides, corrections, and failures as learnable computational reflexes rather than isolated errors. By identifying recurring patterns and storing successful responses, the system progressively develops faster and more efficient decision pathways.
+### [Computational Muscle Memory (CMM)](https://github.com/datlavenkatareddy/computational-muscle-memory)
 
-**Core Pipeline**
+A systems-design project exploring how intelligent systems could reuse validated experience to reduce repeated computation without becoming brittle.
 
-Experience Logging → Pattern Extraction → Reflex Store → Override Engine
+The proposed control-layer approach examines confidence-based overrides, fallback mechanisms, and the ability to revoke previously trusted behavior when conditions change.
 
-**Research Focus**
+**Focus:** Adaptive computation, control architecture, and robust decision reuse.
 
-* Adaptive optimization
-* Computational learning mechanisms
-* Mathematical modeling of reflex formation
-* Human-inspired intelligent systems
+*Current form: conceptual systems essay and architectural proposal.*
 
----
+### [JIVA — Multimodal Intelligence for Lung Health](https://github.com/datlavenkatareddy/JIVA)
 
-# 🧪 Featured Projects
+A collaborative research prototype exploring multimodal approaches to pulmonary health screening through breath VOC data, cardiopulmonary audio, chest X-ray inspection, and video-based vital-sign estimation.
 
-## 🔹 Explainable AI Stability Analyzer (XAI-SA)
+The project brings together machine-learning workflows and a Streamlit interface to explore different signal modalities in one application.
 
-A research-driven framework for evaluating the robustness of machine learning explanations under realistic data perturbations.
+**Technologies:** Python, Streamlit, scikit-learn, PyTorch, OpenCV, SHAP
 
-The system measures how stable SHAP explanations remain when data is affected by:
+*Research prototype only; not a clinically validated diagnostic system.*
 
-* Noise Injection
-* Missing Values
-* Outliers
-* Bootstrap Sampling
+## Technical Skills
 
-**Key Features**
+**Languages:** Python, Java, JavaScript, TypeScript
 
-* Explanation Stability Metrics
-* Perturbation Sensitivity Analysis
-* Feature Stability Heatmaps
-* Benchmark Leaderboards
-* Automated PDF Reporting
-* Interactive Streamlit Dashboard
+**AI & Data Science:** scikit-learn, SHAP, NumPy, pandas
 
-**Tech Stack**
+**Web Development:** React, Node.js, Express.js, MongoDB
 
-Python • SHAP • Scikit-Learn • XGBoost • Plotly • Streamlit
+**Applications & Tools:** Streamlit, Git, GitHub
 
-**Outcome**
+## Connect
 
-Benchmarked explanation stability across multiple machine learning models and datasets to identify which models produce the most reliable explanations under uncertainty.
-
----
-
-## 🔹 QuickSum AI
-
-An intelligent document summarization system designed for fast and practical information extraction.
-
-Features:
-
-* PDF Processing
-* Structured Summary Generation
-* Low-Latency Inference
-* User-Friendly Workflow
-
-Built with a focus on real-world usability rather than research prototypes.
-
----
-
-## 🔹 Full-Stack Engineering
-
-Experience building and deploying end-to-end applications across the complete software stack.
-
-**Frontend**
-
-* React
-* TypeScript
-* JavaScript
-* HTML
-* CSS
-
-**Backend**
-
-* Node.js
-* Express.js
-* MongoDB
-
-Focus on scalable architecture, rapid iteration, and production-ready software development.
-
-
-
----
-
-## 🧠 Technical Focus
-
-* Data Structures & Algorithms (problem‑solving rigor)
-* Object‑Oriented Design (Java)
-* Python for ML & system prototyping
-* Full‑stack engineering
-* AI system design (LLMs, memory, reasoning, control layers)
-
----
-
-
-## 🎯 Long‑Term Vision
-
-To engineer an **All‑in‑One AI System with Real‑Time Human Intelligence**, integrating:
-
-* Language, vision, and speech
-* Persistent memory
-* Reflex‑like response mechanisms
-* Human‑aligned control layers
-
-Not demos. Not wrappers. **Real systems.**
-
----
-
-## 📫 Connect
-
-* GitHub: You’re here
-* LinkedIn: www.linkedin.com/in/gnanavenkatareddydatla
-
----
-
-> I value clarity over noise, fundamentals over fashion, and systems that work under pressure.
+- **LinkedIn:** [gnanavenkatareddydatla](https://www.linkedin.com/in/gnanavenkatareddydatla)
+- **Email:** [dvenkatareddy2006@gmail.com](mailto:dvenkatareddy2006@gmail.com)
+- **GitHub:** [@datlavenkatareddy](https://github.com/datlavenkatareddy)
