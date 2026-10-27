@@ -7,9 +7,9 @@ I explore intelligent systems through machine learning, explainability, and adap
 
 ## Areas of Interest
 
-- **AI & Explainable ML** — Model behavior, explanation stability, and robustness under data perturbations.
-- **Adaptive Intelligent Systems** — Control mechanisms, reusable computation, and the balance between efficiency and reliability.
-- **Software Engineering** — Data structures and algorithms, backend development, and full-stack applications.
+- **AI & Explainable ML** - Model behavior, explanation stability, and robustness under data perturbations.
+- **Adaptive Intelligent Systems** - Control mechanisms, reusable computation, and the balance between efficiency and reliability.
+- **Software Engineering** - Data structures and algorithms, backend development, and full-stack applications.
 
 ## Selected Projects
 
@@ -35,7 +35,7 @@ The proposed control-layer approach examines confidence-based overrides, fallbac
 
 *Current form: conceptual systems essay and architectural proposal.*
 
-### [JIVA — Multimodal Intelligence for Lung Health](https://github.com/datlavenkatareddy/JIVA)
+### [JIVA - Multimodal Intelligence for Lung Health](https://github.com/datlavenkatareddy/JIVA)
 
 A collaborative research prototype exploring multimodal approaches to pulmonary health screening through breath VOC data, cardiopulmonary audio, chest X-ray inspection, and video-based vital-sign estimation.
 
